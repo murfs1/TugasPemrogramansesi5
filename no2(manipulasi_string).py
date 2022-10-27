@@ -15,7 +15,7 @@ print("point a :",kalimat[17:22].lower(),kalimat[12:16].lower()) #output : putra
 #membuat output point b 
 print("point b :",kalimat[1:11],kalimat[12]+kalimat[14:16],kalimat[17]+kalimat[19:22],kalimat[23]+kalimat[25:28]+kalimat[29:31]) #output : NIVERSITAS NSA PTRA SKABMI
 #membuat output point c 
-print("point c :",kalimat[22:31],kalimat[17:22],kalimat[12:16],kalimat[0:11]) #output : SUKABUMI PUTRA NUSA UNIVERSITAS
+print("point c :",kalimat[23:31],kalimat[17:22],kalimat[12:16],kalimat[0:11]) #output : SUKABUMI PUTRA NUSA UNIVERSITAS
 #membuat output point d
 print("point d :",kalimat[0]+kalimat[12]+kalimat[17]+kalimat[23]) #output : UNPS 
 #membuat output point e
